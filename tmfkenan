@@ -1,0 +1,1128 @@
+[
+    {
+        "index": 0,
+        "soal": "Ten rengini değiştirebilen kertenkele gibi bir hayvan mı?",
+        "jawaban": "Bukalemun"
+    },
+    {
+        "index": 1,
+        "soal": "Ten rengini değiştirebilen kertenkele gibi bir hayvan mı?",
+        "jawaban": "Bukalemun"
+    },
+    {
+        "index": 2,
+        "soal": "11 Mart 1966'da Endonezya güvenliğini devralması için Suharto'ya talimat mektubu mu?",
+        "jawaban": "Süpersemar"
+    },
+    {
+        "index": 3,
+        "soal": "Amerika'nın en uzun nehri?",
+        "jawaban": "Amazon"
+    },
+    {
+        "index": 4,
+        "soal": "Tarihe Endonezya Miras Bayrağı'nın terzisi olarak kaydedilen kadınlar?",
+        "jawaban": "Fatmavati"
+    },
+    {
+        "index": 5,
+        "soal": "42,195 km uzun mesafe yarışı mı?",
+        "jawaban": "Maraton"
+    },
+    {
+        "index": 6,
+        "soal": "Dünyayı kuzey yarım küreye ve güney yarım küreye ayıran çizgi?",
+        "jawaban": "Ekvator"
+    },
+    {
+        "index": 7,
+        "soal": "682'de kurulan bu şehir Endonezya'nın en eski şehri olarak mı adlandırılıyor?",
+        "jawaban": "Palembang"
+    },
+    {
+        "index": 8,
+        "soal": "Dünya dahil evrende meydana gelen çekici kuvvetin adı nedir?",
+        "jawaban": "Yerçekimi"
+    },
+    {
+        "index": 9,
+        "soal": "Araca dönüşebilen bir robotla ilgili filmin adı?",
+        "jawaban": "Transformatörler"
+    },
+    {
+        "index": 10,
+        "soal": "Antik Roma'da halka açık eğlence için savaşan savaşçılar mı?",
+        "jawaban": "Gladyatörler"
+    },
+    {
+        "index": 11,
+        "soal": "1912 yılında ilk seferi sırasında batan lüks yolcu gemisinin adı?",
+        "jawaban": "Titanik"
+    },
+    {
+        "index": 12,
+        "soal": "İtalya'dan Old Lady lakaplı bir futbol kulübü mü?",
+        "jawaban": "Juventus"
+    },
+    {
+        "index": 13,
+        "soal": "Halkın iradesine dayalı devlet hükümet sisteminin mekanizması?",
+        "jawaban": "Demokrasi"
+    },
+    {
+        "index": 14,
+        "soal": "Geleneksel Bali dans drama sanatının adı?",
+        "jawaban": "Tekme"
+    },
+    {
+        "index": 15,
+        "soal": "Rusya'da kullanılan para biriminin adı?",
+        "jawaban": "Ruble"
+    },
+    {
+        "index": 16,
+        "soal": "Dünya atmosferinin dışındaki gök cisimlerini ve fenomenleri gözlemleyen doğa bilimleri mi?",
+        "jawaban": "Astronomi"
+    },
+    {
+        "index": 17,
+        "soal": "1803-1815'te Avrupa Kıtasını yöneten Fransa İmparatoru mu?",
+        "jawaban": "Napolyon"
+    },
+    {
+        "index": 18,
+        "question": "Kübizm adlı bir sanat türüne sahip İspanya'dan dünyaca ünlü sanatçı?",
+        "jawaban": "Picasso"
+    },
+    {
+        "index": 19,
+        "soal": "İkinci Dünya Savaşı'nda Müttefik Kuvvetler başkomutanının adı?",
+        "jawaban": "Eisenhower"
+    },
+    {
+        "index": 20,
+        "soal": "Yıldız Savaşları dünyasında Jedi ve Sith tarafından kullanılan kurgu silahı mı?",
+        "jawaban": "Işın kılıcı"
+    },
+    {
+        "index": 21,
+        "soal": "Norveç ve İsveç ülkelerinin bulunduğu Avrupa'daki yarımadanın adı?",
+        "jawaban": "İskandinavya"
+    },
+    {
+        "index": 22,
+        "soal": "Aynı zamanda Arsenal FC kulübünün ana üssü olan Londra'daki futbol stadyumu mu?",
+        "jawaban": "Emirlikler"
+    },
+    {
+        "index": 23,
+        "question": "Dünyaca ünlü kadın şarkıcı, Destiny's Child grubunda mıydı?",
+        "jawaban": "Beyonce"
+    },
+    {
+        "index": 24,
+        "soal": "Tanrı'nın bir veya bir olduğu inancı için kullanılan terim?",
+        "jawaban": "Tektanrıcılık"
+    },
+    {
+        "index": 25,
+        "soal": "Kralın şu anda DI Yogyakarta vali yardımcısı olduğu krallığın adı?",
+        "jawaban": "Pakualaman"
+    },
+    {
+        "index": 26,
+        "soal": "MÖ 287'de doğmuş tarihin en büyük matematikçilerinden biri olarak mı kabul ediliyor?",
+        "jawaban": "Arşimet"
+    },
+    {
+        "index": 27,
+        "soal": "Endonezya'nın Papua adasında bulunan en yüksek sıradağları mı?",
+        "jawaban": "Jayawijaya"
+    },
+    {
+        "index": 28,
+        "soal": "Demir Adam, Kaptan Amerika, Hulk, Thor'dan oluşan kurgusal bir süper kahraman grubu mu?",
+        "jawaban": "Yenilmezler"
+    },
+    {
+        "index": 29,
+        "soal": "Neredeyse tüm Kuzey Asya bölgesini kapsayan Rusya'nın geniş topraklarının adı?",
+        "jawaban": "Sibirya"
+    },
+    {
+        "index": 30,
+        "problem": "Elektrik akımını kolayca ileten bir nesne veya ortam?",
+        "jawaban": "Kondüktör"
+    },
+    {
+        "index": 31,
+        "soal": "İran, Tacikistan, Afganistan ve Özbekistan'da konuşulan dillerin adları?",
+        "jawaban": "Farsça"
+    },
+    {
+        "index": 32,
+        "soal": "MÖ 8000 civarında ilk tarım uygulamasının yapıldığı alan?",
+        "jawaban": "Mezopotamya"
+    },
+    {
+        "index": 33,
+        "soal": "Mutlak otoriteye sahip liderlik ilkesine dayalı bir ideoloji mi?",
+        "jawaban": "Faşizm"
+    },
+    {
+        "index": 34,
+        "soal": "252'den 66 milyon yıl öncesine kadar sürüngenler çağı olarak da adlandırılan jeolojik dönemin adı?",
+        "jawaban": "Mezozoik"
+    },
+    {
+        "index": 35,
+        "soal": "Efsanede bilinen adı Borobudur Tapınağı'nı tasarlayan mimar olarak mı jawabanla?",
+        "jawaban": "Gunadharma"
+    },
+    {
+        "index": 36,
+        "soal": "Aslanı andıran kostümlerde geleneksel Çin dansı",
+        "jawaban": "aslan dansı"
+    },
+    {
+        "index": 37,
+        "soal": "Köyden kente insanların hareketini ifade eden terim?",
+        "jawaban": "Kentleşme"
+    },
+    {
+        "index": 38,
+        "soal": "1970'lerden Bandung'lu ünlü bir müzik grubu, personelde üç kardeş mi?",
+        "jawaban": "Bimbo"
+    },
+    {
+        "index": 39,
+        "question": "Iko Uwais'in oynadığı 2009 Endonezya aksiyon filminin adı?",
+        "jawaban": "Gezici"
+    },
+    {
+        "index": 41,
+        "soal": "Suyun donma noktasının 0 derece ve kaynama noktasının 100 derece olduğu sıcaklık ölçeği?",
+        "jawaban": "Santigrat"
+    },
+    {
+        "index": 42,
+        "soal": "İnsan benzeri bir maymun şeklinde, büyük ve kıllı bir Cava efsanevi hayaleti mi?",
+        "jawaban": "Genderuwo"
+    },
+    {
+        "index": 43,
+        "question": "Los Angeles'ta dünya çapındaki film endüstrisiyle tanınan bir bölge mi?",
+        "jawaban": "Hollywood"
+    },
+    {
+        "index": 44,
+        "soal": "Organizmalardaki ve alt organizmalardaki özelliklerin kalıtımını inceleyen biyoloji dalı?",
+        "jawaban": "Genetik"
+    },
+    {
+        "index": 45,
+        "soal": "Orta Java'daki antik insan bölgesi, aynı zamanda bir UNESCO Dünya Mirası Alanı mı?",
+        "jawaban": "Sangiran"
+    },
+    {
+        "index": 46,
+        "soal": "Güneş'in etrafında dönen bir gezegenden daha küçük bir kaya parçası mı?",
+        "jawaban": "Asteroidler"
+    },
+    {
+        "index": 47,
+        "soal": "Ot yiyen hayvanlar veya bitkiler için terimler?",
+        "jawaban": "Otçullar"
+    },
+    {
+        "index": 48,
+        "soal": "Bir kabilenin veya grubun sistematik olarak katledilmesi anlamına gelen bir terim mi?",
+        "jawaban": "Soykırım"
+    },
+    {
+        "index": 49,
+        "soal": "Dişi Anopheles sivrisinek tarafından bulaşan ateşli hastalığın adı?",
+        "jawaban": "Sıtma"
+    },
+    {
+        "index": 50,
+        "soal": "Komik, masum ama aynı zamanda zeki olan Sundalı kültürel kurgusal bir karakterin adı?",
+        "jawaban": "Kabayan"
+    },
+    {
+        "index": 51,
+        "soal": "Santri öğrencilerinin Kiai rehberliğinde eğitim gördüğü bir yurt mu?",
+        "jawaban": "İslami yatılı okul"
+    },
+    {
+        "index": 52,
+        "question": "Japon video oyun şirketi, Mario Bros. ve Pokemon'un yaratıcısı mı?",
+        "jawaban": "Nintendo"
+    },
+    {
+        "index": 53,
+        "soal": "Endonezya'da Konfüçyüs'ün öğretilerine dayanan resmi bir din mi?",
+        "jawaban": "Khong hu cu"
+    },
+    {
+        "index": 54,
+        "question": "Herkes tarafından yazılması ve düzenlenmesi serbest olan çevrimiçi ansiklopedinin adı?",
+        "jawaban": "Vikipedi"
+    },
+    {
+        "index": 55,
+        "soal": "Düz bir dörtgen, bir çift paralel kenar oluşturun, ancak aynı uzunlukta değil mi?",
+        "jawaban": "Yamuk"
+    },
+    {
+        "index": 56,
+        "soal": "Vücuttan gelen kan şekerini düzenleyici hormonun yetersiz kaldığı hastalıklar?",
+        "jawaban": "Diyabet"
+    },
+    {
+        "index": 57,
+        "soal": "Dünyanın uluslararası alanda tanınan en küçük bağımsız ülkesi mi?",
+        "jawaban": "Vatikan"
+    },
+    {
+        "index": 58,
+        "soal": "Büyük İskender tarafından yönetilen Antik Yunan İmparatorluğu?",
+        "jawaban": "Makedonca"
+    },
+    {
+        "index": 59,
+        "soal": "Dünyanın en büyük ikinci Müslüman nüfusuna sahip ülke?",
+        "jawaban": "Pakistan"
+    },
+    {
+        "index": 60,
+        "soal": "Beyin fonksiyonlarında azalma belirtileri, genellikle yaşlılıkta mı görülür?",
+        "jawaban": "Demans"
+    },
+    {
+        "index": 61,
+        "soal": "Buhar Santrallerinde kullanılan fosil yakıtlar?",
+        "jawaban": "Kömür"
+    },
+    {
+        "index": 62,
+        "soal": "Bali'de bir kayanın kenarına inşa edilmiş ünlü tapınağın adı?",
+        "jawaban": "Uluwatu"
+    },
+    {
+        "index": 63,
+        "soal": "Sultan Agung'un oğlu tarafından Mataram'dan alınan bir unvan mı?",
+        "jawaban": "Doğru"
+    },
+    {
+        "index": 65,
+        "soal": "2011'de Japonya'da nükleer sızıntının meydana geldiği bölge?",
+        "jawaban": "Fukuşima"
+    },
+    {
+        "index": 66,
+        "soal": "Can, sağlık, mal vb. için mali koruma?",
+        "jawaban": "Sigorta"
+    },
+    {
+        "index": 67,
+        "question": "Süper arabalar ve yarış arabaları üreticisi İtalya'dan at logolu şirket mi?",
+        "jawaban": "Ferrari"
+    },
+    {
+        "index": 68,
+        "soal": "Güney Sulawesi'nden başarılı bir denizci olarak ünlü bir kabile mi?",
+        "jawaban": "Bugis"
+    },
+    {
+        "index": 69,
+        "soal": "Bram Stoker'ın romanındaki ana karakter olan vampir mi?",
+        "jawaban": "Drakula"
+    },
+    {
+        "index": 70,
+        "soal": "Bu gezegen Güneş Sistemindeki en büyük gezegen mi?",
+        "jawaban": "Jüpiter"
+    },
+    {
+        "index": 71,
+        "soal": "Eski Mısır'da kağıt yapmak için kullanılan bitkiler mi?",
+        "jawaban": "Papirüs"
+    },
+    {
+        "index": 72,
+        "soal": "Kükürt, odun kömürü ve potasyum nitratın toz karışımı şeklinde patlayıcılar mı?",
+        "jawaban": "Barut"
+    },
+    {
+        "index": 73,
+        "soal": "Filipinler'de de yaygın olarak konuşulan resmi bir dil mi?",
+        "jawaban": "Tagalogca"
+    },
+    {
+        "index": 74,
+        "soal": "Güney Amerika'da küçük bir ülke, birçok Cava soyundan mı var?",
+        "jawaban": "Surinam"
+    },
+    {
+        "index": 75,
+        "soal": "Yunan mitolojisindeki kanatlı aygır mı?",
+        "jawaban": "Pegasus"
+    },
+    {
+        "index": 76,
+        "question": "Londra'dan alternatif bir rock grubu. Vokalist Chris Martin mi?",
+        "jawaban": "Coldplay"
+    },
+    {
+        "index": 77,
+        "soal": "Kesildiğinde yıldız şeklinde kesiti olan meyveler?",
+        "jawaban": "Yıldız meyvesi"
+    },
+    {
+        "index": 78,
+        "question": "Genellikle metalofonlar, ksilofonlar, davullar ve gonglar içeren bir müzik topluluğu mu?",
+        "jawaban": "Gamelan"
+    },
+    {
+        "index": 79,
+        "soal": "İslam'ın, Hıristiyanlığın, Museviliğin asırlardır uğrunda savaştığı şehrin adı?",
+        "jawaban": "Kudüs"
+    },
+    {
+        "index": 80,
+        "soal": "Yaklaşık 200 milyon insan tarafından konuşulan Bangladeş'in resmi dili?",
+        "jawaban": "Bengalce"
+    },
+    {
+        "index": 81,
+        "soal": "Etanol bazlı sarhoş edici maddeler?",
+        "jawaban": "Alkol"
+    },
+    {
+        "index": 82,
+        "soal": "Kıta Avrupası'ndaki tek aktif yanardağ İtalya'da mı bulunuyor?",
+        "jawaban": "Vezüv"
+    },
+    {
+        "index": 83,
+        "question": "Çok uzun saçlı kurgu karakteri Tangled animasyon filminin ana karakteri mi?",
+        "jawaban": "Rapunzel"
+    },
+    {
+        "index": 84,
+        "soal": "Denizden gelen büyük dalgalar şeklinde doğal afet?",
+        "jawaban": "Tsunami"
+    },
+    {
+        "index": 85,
+        "soal": "Eski Türk devletinde Konstantinopolis denilen şehrin adı?",
+        "jawaban": "İstanbul"
+    },
+    {
+        "index": 86,
+        "soal": "Yaklaşık 30.000 yıl önce yeryüzünden kaybolan insan alt türleri?",
+        "jawaban": "Neandertaller"
+    },
+    {
+        "index": 87,
+        "soal": "Japonya'daki Samurayların mideyi yırtarak ritüel intiharının adı?",
+        "jawaban": "Seppuku"
+    },
+    {
+        "index": 88,
+        "soal": "Pizza yemeklerinde genellikle İtalya'dan ne tür peynir bulunur?",
+        "jawaban": "Mozzarella"
+    },
+    {
+        "index": 89,
+        "question": "Bir erkek hükümdarın (kral, padişah veya imparator) karısına verilen unvan?",
+        "jawaban": "İmparatoriçe"
+    },
+    {
+        "index": 90,
+        "soal": "Uzun süredir dünyanın kuzey kutbunda yaşayan kabilenin adı?",
+        "jawaban": "Eskimolar"
+    },
+    {
+        "index": 91,
+        "soal": "İnsan vücudunda oksijenden sonra en bol bulunan ikinci element?",
+        "jawaban": "Karbon"
+    },
+    {
+        "index": 92,
+        "soal": "İkinci Dünya Savaşı sırasında Avrupalı ​​Yahudilere yönelik soykırım olayları?",
+        "jawaban": "Holokost"
+    },
+    {
+        "index": 93,
+        "soal": "Şekeri maya ile etanole dönüştürme işlemi?",
+        "jawaban": "Fermantasyon"
+    },
+    {
+        "index": 94,
+        "soal": "Cava geleneğinde adil bir kraliçenin varlığını tartışan kehanet mi?",
+        "jawaban": "Jayabaya"
+    },
+    {
+        "index": 95,
+        "soal": "Günmerkezlilik teorisini ortaya atan 15. yüzyıl Polonyalı figürü?",
+        "jawaban": "Kopernik"
+    },
+    {
+        "index": 96,
+        "soal": "Giysilerde, çantalarda vb. kullanılan kumaşın iki tarafını birleştirmek için popüler araç?",
+        "jawaban": "Fermuarlar"
+    },
+    {
+        "index": 97,
+        "soal": "Bir elektrik devresindeki iki nokta arasındaki elektrik potansiyeli farkının birimi?",
+        "jawaban": "Gerilim"
+    },
+    {
+        "index": 98,
+        "soal": "Soylu sınıfa büyük güç veren sosyal sistem mi?",
+        "jawaban": "Feodalizm"
+    },
+    {
+        "index": 99,
+        "soal": "İki çeşit amino asitten oluşan yapay/sentetik tatlandırıcının adı?",
+        "jawaban": "Aspartam"
+    },
+    {
+        "index": 100,
+        "question": "Sony tarafından 1990'larda üretilen ilk video oyun konsolu mu?",
+        "jawaban": "PlayStation"
+    },
+    {
+        "index": 101,
+        "question": "Hollanda Doğu Hint Adaları döneminde kullanılan Borneo adasının başka bir adı mı?",
+        "jawaban": "Borneo"
+    },
+    {
+        "index": 102,
+        "soal": "Rengi yeşil aralıkta olan değerli taş mı yoksa değerli taş mı?",
+        "jawaban": "Zümrüt"
+    },
+    {
+        "index": 103,
+        "soal": "Yogyakarta'daki Cava tarihi ve kültürü müzesinin adı?",
+        "jawaban": "Sonobudoyo"
+    },
+    {
+        "index": 104,
+        "soal": "İnsan vücudunun ve ruhunun sağlığını inceleyen tıp bilimi dalı mı?",
+        "jawaban": "Psikiyatri"
+    },
+    {
+        "index": 105,
+        "soal": "Birleşik Devletler'in ilk Başkanı, aynı zamanda Amerika Birleşik Devletleri'nin Başkentinin de adı?",
+        "jawaban": "Washington"
+    },
+    {
+        "index": 106,
+        "soal": "Uçabilen tek memeli türü?",
+        "jawaban": "Yarasalar"
+    },
+    {
+        "index": 107,
+        "soal": "1000'den fazla adadan oluşan Okyanus takımadaları mı?",
+        "jawaban": "Polinezya"
+    },
+    {
+        "index": 108,
+        "soal": "Krallık döneminin hükümdarının unvanı, seviye imparatora eşit mi?",
+        "jawaban": "Maharaja"
+    },
+    {
+        "index": 109,
+        "soal": "Singapur'a en yakın adanın adı?",
+        "jawaban": "Batam"
+    },
+    {
+        "index": 110,
+        "soal": "Amfibi baskınlar gerçekleştirebilecek silahlı kuvvetlerin bir kolu mu?",
+        "jawaban": "Denizcilik"
+    },
+    {
+        "index": 111,
+        "question": "Endonezya'da en çok aboneye sahip cep telefonu operatörü şirketi mi?",
+        "jawaban": "Telekomsel"
+    },
+    {
+        "index": 112,
+        "soal": "10 ayaklı ve kabuklu hayvanın adı?",
+        "jawaban": "Yengeç"
+    },
+    {
+        "index": 113,
+        "soal": "Bir sahneyi veya sahneyi tanımlamak için minyatür bir nesne mi?",
+        "jawaban": "Diorama"
+    },
+    {
+        "index": 114,
+        "soal": "Toraja geleneksel evi, çatı bir tekne gibi kavisli mi?",
+        "jawaban": "Tonkonan"
+    },
+    {
+        "index": 115,
+        "soal": "1825'te Prens Diponegoro'nun karargahı haline gelen mağara mı?",
+        "jawaban": "Selarong"
+    },
+    {
+        "index": 116,
+        "soal": "Cennette/cennette yaşayan kadın suretindeki bir yaratığın adı?",
+        "jawaban": "melek"
+    },
+    {
+        "index": 117,
+        "soal": "Japon Samurayları tarafından kullanılan tek gözlü kavisli kılıç?",
+        "jawaban": "katana"
+    },
+    {
+        "index": 118,
+        "soal": "Bir yumuşakça hayvanının yumuşak dokusundan yapılmış takılar mı?",
+        "jawaban": "İnci"
+    },
+    {
+        "index": 119,
+        "question": "Fin oyun geliştiricisi Clash of Clans'tan şirketin adı?",
+        "jawaban": "Süper hücre"
+    },
+    {
+        "index": 120,
+        "about": "Palmiye şekeri ve hindistancevizi sütünden yapılan geleneksel Sunda içeceği?",
+        "jawaban": "Bajigur"
+    },
+    {
+        "index": 121,
+        "soal": "Aslen 1960'larda Jamaika'da geliştirilen bir müzik türü mü?",
+        "jawaban": "Reggae"
+    },
+    {
+        "index": 122,
+        "about": "Doğu Java'dan gelen geleneksel drama eğlenceli ve sizi güldürüyor mu?",
+        "jawaban": "Ludruk"
+    },
+    {
+        "index": 123,
+        "soal": "Harry Potter karakterlerinin sihir çalıştığı kurgusal okul yurdunun adı?",
+        "jawaban": "Hogwarts"
+    },
+    {
+        "index": 124,
+        "soal": "Adını karides ezmesi üreticisi olarak tarihinden alan şehir?",
+        "jawaban": "Cirebon"
+    },
+    {
+        "index": 125,
+        "soal": "Hukuk alanında gerçek bir işlem yapmaya yetkili bir kamu görevlisi?",
+        "jawaban": "Noter"
+    },
+    {
+        "index": 126,
+        "soal": "İnsan vücudu tarafından karbonhidratlardan ne tür şeker işlenir?",
+        "jawaban": "Glikoz"
+    },
+    {
+        "index": 127,
+        "soal": "Güneydoğu Asya küçük kavisli el bıçağı?",
+        "jawaban": "Kerambit"
+    },
+    {
+        "index": 128,
+        "soal": "Mamut cinsinden, yaprak ve ağaç dalları yiyen eski bir fil türü?",
+        "jawaban": "Mastodon"
+    },
+    {
+        "index": 129,
+        "soal": "Gajah Mada'nın Patih olarak atanma töreninde yaptığı yemin mi?",
+        "jawaban": "Palapa"
+    },
+    {
+        "index": 130,
+        "soal": "Bankaya para yatırma ürünleri, sadece belirli zamanlarda para çekme işlemi yapılabilir mi?",
+        "jawaban": "Para yatırma"
+    },
+    {
+        "index": 131,
+        "soal": "Gökyüzünde beliren çok renkli ışık şeklinde optik ve meteorolojik belirtiler?",
+        "jawaban": "Gökkuşağı"
+    },
+    {
+        "index": 132,
+        "soal": "Hedefleri bulmak için otomatik kontrol sistemine sahip bir askeri roket silahı mı?",
+        "jawaban": "Füze"
+    },
+    {
+        "index": 133,
+        "problem": "Japonya'da kendi yöntemleri ve yasaları olan organize suç örgütleri mi?",
+        "jawaban": "Yakuza"
+    },
+    {
+        "index": 134,
+        "soal": "Hinduizm'de aynı zamanda bir eser veya renk sınıfı olan bilim adamları sınıfı mı?",
+        "jawaban": "Brahman"
+    },
+    {
+        "index": 135,
+        "soal": "Muson sisteminden etkilenen tropik bölgelerde kurak mevsim mi?",
+        "jawaban": "kuraklık"
+    },
+    {
+        "index": 136,
+        "soal": "Müfredatı İslami dersler içeren bir devlet okulu mu?",
+        "jawaban": "Medrese"
+    },
+    {
+        "index": 137,
+        "soal": "Çöl alanlarında uzun süre susuz büyüyebilen bitkiler var mı?",
+        "jawaban": "kaktüs"
+    },
+    {
+        "index": 138,
+        "soal": "Lemurlar, maymunlar ve insanlar da dahil olmak üzere beş parmaklı bir memeli düzeni mi?",
+        "jawaban": "Primat"
+    },
+    {
+        "index": 139,
+        "soal": "İnce malzemeden yapılmış, Malaya peştemâli veya batik ile giyilen geleneksel kadın bluzu?",
+        "jawaban": "Kebaya"
+    },
+    {
+        "index": 140,
+        "soal": "Buğdayda genellikle hangi tür protein bulunur, çölyak hastalarından kaçının?",
+        "jawaban": "Glüten"
+    },
+    {
+        "index": 141,
+        "soal": "1500'lerde Brezilya'da Afrikalılar tarafından geliştirilen bir dövüş sporu mu?",
+        "jawaban": "Capoeira"
+    },
+    {
+        "index": 142,
+        "soal": "Rüzgar, su veya buz taşınması nedeniyle kaya/toprak gibi katı maddelerin aşınması olayları?",
+        "jawaban": "Erozyon"
+    },
+    {
+        "index": 143,
+        "soal": "Ton balığının yakın akrabası olan balıklar genellikle kraker, köfte, pempek olarak işlenir mi?",
+        "jawaban": "Uskumru"
+    },
+    {
+        "index": 144,
+        "soal": "Özellikle Karawang bölgesinde bir tür geleneksel Sunda sosyal dansı mı?",
+        "jawaban": "Jaipongan"
+    },
+    {
+        "index": 145,
+        "soal": "Sayıların 0 ve 1 olmak üzere iki sembol kullanılarak yazıldığı bir sayı sistemi?",
+        "jawaban": "İkili"
+    },
+    {
+        "index": 146,
+        "soal": "Zencefil ailesinin tohumlarından elde edilen baharatlar, dünyanın en pahalı üçüncü baharatı mı?",
+        "jawaban": "kakule"
+    },
+    {
+        "index": 147,
+        "soal": "Dünya'nın Güney Kutbu'nu içeren kıtanın sıcaklığı çok mu düşük?",
+        "jawaban": "Antarktika"
+    },
+    {
+        "index": 148,
+        "soal": "Orta Çağ'da duvarları yıkmak için yaygın olarak kullanılan fırlatma silahı mı?",
+        "jawaban": "Trebuchet"
+    },
+    {
+        "index": 149,
+        "soal": "Kafadaki ölü derinin aşırı pul pul dökülmesi olan beyaz pullar?",
+        "jawaban": "Kepek"
+    },
+    {
+        "index": 150,
+        "soal": "Eski el yazmalarında dilin incelenmesi?",
+        "jawaban": "Filoloji"
+    },
+    {
+        "index": 151,
+        "soal": "Gebeliğin sadece geç evrelerinde doğumdan birkaç gün sonra üretilen süt mü?",
+        "jawaban": "Kolostrum"
+    },
+    {
+        "index": 152,
+        "soal": "Japon mutfağında tatlandırıcı olarak yenen Japonya'ya özgü bir bitkinin tadı keskin/baharatlı mı?",
+        "jawaban": "Wasabi"
+    },
+    {
+        "index": 153,
+        "question": "Yarasa kullanan sporlar, alan kare mi?",
+        "jawaban": "Beyzbol"
+    },
+    {
+        "index": 154,
+        "soal": "Batak biberi olarak da bilinen Toba Batak mutfağına özel baharatlar?",
+        "jawaban": "Andaliman"
+    },
+    {
+        "index": 155,
+        "soal": "Birleşik Krallık, Japonya, Hollanda, Malezya, Singapur tarafından benimsenen hükümet sistemi mi?",
+        "jawaban": "Parlamento"
+    },
+    {
+        "index": 156,
+        "soal": "Baharatlı baharatlı fermente sebze turşusu şeklinde geleneksel Kore yemeği?",
+        "jawaban": "Kimchi"
+    },
+    {
+        "index": 157,
+        "soal": "Maddi kazanç için değil, sosyal veya çevresel amaçları olan bir şey için kullanılan terim?",
+        "jawaban": "Kar amacı gütmeyen"
+    },
+    {
+        "index": 158,
+        "soal": "Kadınların siyasette, ekonomide, kültürde vs. eşitliği için savaşan bir hareket mi?",
+        "jawaban": "Feminizm"
+    },
+    {
+        "index": 159,
+        "soal": "Doğu Asya menşeli fermente edilmiş bir çay ve şeker içeceği mi?",
+        "jawaban": "Kombucha"
+    },
+    {
+        "index": 161,
+        "soal": "Kuzey Sumatra'daki Toba Gölü'nün ortasındaki volkanik adanın adı?",
+        "jawaban": "Samosir"
+    },
+    {
+        "index": 162,
+        "soal": "Antik Yunanistan'daki askerler falanks oluşumunda mızrakçı olarak işlev gördü mü?",
+        "jawaban": "Hoplitler"
+    },
+    {
+        "index": 163,
+        "question": "Cava ve Bali kültüründe 5 günden oluşan bir haftanın adı?",
+        "jawaban": "Pancawara"
+    },
+    {
+        "index": 164,
+        "soal": "Hollanda sömürge döneminde çeşitli Endonezya yemekleri ile yemek nasıl servis edilir?",
+        "jawaban": "Rijsttafel"
+    },
+    {
+        "index": 165,
+        "soal": "Toprak kullanmadan su kullanarak yetiştirme terimi?",
+        "jawaban": "Hidroponik"
+    },
+    {
+        "index": 166,
+        "soal": "Dünyada en bol bulunan metal, elektriği en iyi iletir mi?",
+        "jawaban": "Alüminyum"
+    },
+    {
+        "index": 167,
+        "soal": "Halkın ekonomisine ve akrabalık ilkesine dayalı bir ekonomik organizasyon mu?",
+        "jawaban": "Kooperatif"
+    },
+    {
+        "index": 168,
+        "question": "Hindu tatilleri, Bali takvimi hesaplamaları kullanılarak her 210 günde bir kutlanır mı?",
+        "jawaban": "Galungan"
+    },
+    {
+        "index": 169,
+        "soal": "Dünya yüzeyinin şeklini ve gezegenlerin, doğal uyduların, asteroitlerin yüzeyini inceleyen bilim mi?",
+        "jawaban": "Topografya"
+    },
+    {
+        "index": 170,
+        "soal": "Endonezya'daki eski inançların taraftarları tarafından tanrılara veya ataların ruhlarına sunulan teklifler?",
+        "jawaban": "teklif"
+    },
+    {
+        "index": 171,
+        "soal": "Kore halk şarkısının adı ve Kore sembolü, Kuzey ve Güney Kore'de biliniyor mu?",
+        "jawaban": "Düzenle"
+    },
+    {
+        "index": 172,
+        "soal": "Hayatta kalabilmek için göçebe bir yaşam sürmeyi seçen bir göçebe ulusun biçimi terimi mi?",
+        "jawaban": "Göçebe"
+    },
+    {
+        "index": 173,
+        "soal": "Japonya'da pahalı bir lüks gıda maddesi olan nadir bir tür çam mantarı mı?",
+        "jawaban": "Matsutake"
+    },
+    {
+        "index": 174,
+        "soal": "Soy hattını düzenleyen bir toplum âdeti anne tarafından mı gelir?",
+        "jawaban": "Anne soyundan"
+    },
+    {
+        "index": 175,
+        "soal": "Çalılar ve yayılmış birkaç çeşit ağaçla dolu bir çayır mı?",
+        "jawaban": "Savanna"
+    },
+    {
+        "index": 176,
+        "soal": "Amerika'yı 1492'de keşfeden İtalyan kaşif mi?",
+        "jawaban": "Capoerira"
+    },
+    {
+        "index": 177,
+        "soal": "Yenidoğanın sağlık durumunu değerlendirmek için kullanılan bir puan veya ölçek mi?",
+        "jawaban": "Apgar"
+    },
+    {
+        "index": 178,
+        "soal": "Dünyanın en yüksek deniz biyolojik çeşitliliğine sahip Kuzey Sulawesi adalarından biri mi?",
+        "jawaban": "Bunaken"
+    },
+    {
+        "index": 179,
+        "soal": "Finans bilimi ve istatistiksel teoriyi gerçek iş soalnlarına uygulama konusunda uzman mı?",
+        "jawaban": "Aktüer"
+    },
+    {
+        "index": 180,
+        "soal": "Gelin ve damadın her iki tarafın ebeveynlerinden kutsama isteme geleneği mi?",
+        "jawaban": "Sungkem"
+    },
+    {
+        "index": 181,
+        "soal": "Bitkisel yağ, tavuk yumurtası ve sirkeden yapılan ne tür beyaz sos?",
+        "jawaban": "Mayonez"
+    },
+    {
+        "index": 182,
+        "soal": "Oy vermemek veya oylamada yer almamak anlamına gelen bir terim mi?",
+        "jawaban": "Çekin"
+    },
+    {
+        "index": 183,
+        "soal": "Endonezya'nın ulusal çiçeklerinden birinin takma adı ulusun puspası mı?",
+        "jawaban": "Yasemin"
+    },
+    {
+        "index": 184,
+        "question": "Çekilerek çalınan bir yaylı çalgı, Rote, NTT'den mi geliyor?",
+        "jawaban": "Sasando"
+    },
+    {
+        "index": 185,
+        "soal": "Bir kireçtaşı mağarasının tavanından sarkan ve su damlatan kaya mı?",
+        "jawaban": "sarkıt"
+    },
+    {
+        "index": 186,
+        "soal": "Singapur'un devlet simgesi, balık gövdeli aslan başlı bir heykel mi?",
+        "jawaban": "Merlion"
+    },
+    {
+        "index": 187,
+        "soal": "Şahın konumu rakibin hareketinden ayrılamadığında satrançta kullanılan terim?",
+        "jawaban": "Şah mat"
+    },
+    {
+        "index": 188,
+        "question": "Hava tahmininde kullanılan hava basıncını ölçmek için bir alet mi?",
+        "jawaban": "Barometre"
+    },
+    {
+        "index": 189,
+        "soal": "Amerika'nın 32. başkanı 4 kez seçilen tek başkan mı?",
+        "jawaban": "Roosevelt"
+    },
+    {
+        "index": 190,
+        "soal": "Dört ana sütundan ne tür geleneksel Cava mimari evi inşa edilmiştir?",
+        "jawaban": "Lima"
+    },
+    {
+        "index": 191,
+        "question": "Elektronik mesajlarda kullanılan resim karakterleri için Japonca terim?",
+        "jawaban": "Emoji"
+    },
+    {
+        "index": 192,
+        "Hakkında": "Sıklıkla dönen bıçakları olan tipik Endonezya hançerlerinden biri mi?",
+        "jawaban": "Keris"
+    },
+    {
+        "index": 193,
+        "soal": "Koyu tenli ve kıvırcık saçlı Avustralya kıtasının yerli sakinleri?",
+        "jawaban": "Aborjin"
+    },
+    {
+        "index": 194,
+        "about": "Önemli bir olayı kutlamak için yapılan, ace'den gayo kabilesinin tipik bir dansı mı?",
+        "jawaban": "Saman dansı"
+    },
+    {
+        "index": 195,
+        "soal": "Metamorfoz yoluyla gelişen genç bir böcek mi yoksa amfibi mi?",
+        "jawaban": "Larva"
+    },
+    {
+        "index": 196,
+        "soal": "Malların yüklenmesi ve boşaltılması için geminin limanda demirlediği yer neresidir?",
+        "jawaban": "İskele"
+    },
+    {
+        "index": 197,
+        "soal": "Elektrikli veya pille çalışan bir motorla hangi tür saat çalıştırılır?",
+        "jawaban": "Kuvars"
+    },
+    {
+        "index": 198,
+        "soal": "Bromo ve Semeru dağlarında yaşayan Hindu kabileleri mi?",
+        "jawaban": "levrek"
+    },
+    {
+        "index": 199,
+        "soal": "Bir eksen üzerinde dönebilen ve bir noktada dengede olan bir oyuncak mı?",
+        "jawaban": "üst"
+    },
+    {
+        "index": 200,
+        "soal": "Dünyanın ana bitkisel protein kaynağı olan baklagiller?",
+        "jawaban": "Soya"
+    },
+    {
+        "index": 201,
+        "soal": "Kimyasal kitle imha silahı olarak kullanılan renksiz, kokusuz bir sıvı mı?",
+        "jawaban": "Sarin"
+    },
+    {
+        "index": 202,
+        "soal": "Diş düzeltme biliminde uzmanlaşmış diş hekimliği dalı mı?",
+        "jawaban": "Ortodonti"
+    },
+    {
+        "index": 203,
+        "soal": "Kadın balerin anlamına gelen İtalyanca bir terim mi?",
+        "jawaban": "Balerin"
+    },
+    {
+        "index": 204,
+        "soal": "Bali'de UNESCO tarafından Dünya Kültür Mirası olarak tanınan teraslı pirinç tarlaları?",
+        "jawaban": "Jatiluwih"
+    },
+    {
+        "index": 205,
+        "soal": "Manyoktan veya manyoktan yapılan pirincin yerini alacak temel gıda mı?",
+        "jawaban": "Tiwul"
+    },
+    {
+        "index": 206,
+        "soal": "Gözün ışığı sinir sinyallerine dönüştüren kısmı?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 207,
+        "question": "Nazi Almanyası tarafından İkinci Dünya Savaşı'nda kullanılan kodlama makinesinin adı?",
+        "jawaban": "Gizem"
+    },
+    {
+        "index": 208,
+        "soal": "Dudaklara uygulanan ağda, pigment, yağdan yapılmış kozmetikler?",
+        "jawaban": "ruj"
+    },
+    {
+        "index": 209,
+        "soal": "Fermente soya fasulyesi, un ve tuzdan yapılan gıda baharatı?",
+        "jawaban": "Tauco"
+    },
+    {
+        "index": 210,
+        "soal": "Besledikleri hayvanların verimini düşürebilecek mineral hayvanlar?",
+        "jawaban": "Parazit"
+    },
+    {
+        "index": 211,
+        "soal": "Çiçeklerin tozlayıcıları çekmek için ürettiği tatlı sıvı mı?",
+        "jawaban": "nektar"
+    },
+    {
+        "index": 212,
+        "soal": "Deniz yatağından veya nehir yatağından yeni arazi yaratma süreci mi?",
+        "jawaban": "İslah"
+    },
+    {
+        "index": 213,
+        "soal": "Hac veya umre yapmadan önceki niyet durumu için kullanılan terim?",
+        "jawaban": "İhram"
+    },
+    {
+        "index": 214,
+        "soal": "Tıngırdayarak çalınan tipik bir Banjar kabile telli çalgısı mı?",
+        "jawaban": "Önemli"
+    },
+    {
+        "index": 215,
+        "soal": "2014'te Batı Afrika'yı rahatsız eden ölümcül viral hastalık mı?",
+        "jawaban": "Ebola"
+    },
+    {
+        "index": 216,
+        "soal": "Ne tür bir çakalın bütün kahve çekirdeklerini yediği bilinmektedir?",
+        "jawaban": "Firavun faresi"
+    },
+    {
+        "index": 217,
+        "soal": "Kral Arthur'un İngiliz mitolojisine göre sahip olduğu kılıcın adı?",
+        "jawaban": "Excalibur"
+    },
+    {
+        "index": 218,
+        "question": "Endonezya gibi kırmızı beyaz bayrağı olan ülkeler?",
+        "jawaban": "Monako"
+    },
+    {
+        "index": 219,
+        "question": "Sessiz jestlerin kullanıldığı bir tiyatro performansı?",
+        "jawaban": "Pandomim"
+    },
+    {
+        "index": 220,
+        "soal": "Müstakbel gelinin düğün geleneğinin evden çıkmasına izin verilmiyor mu?",
+        "jawaban": "Gizlilik"
+    },
+    {
+        "index": 221,
+        "soal": "Geceleri aktif olan ve gündüzleri uyuyan hayvan türü nedir?",
+        "jawaban": "Gece"
+    },
+    {
+        "index": 222,
+        "soal": "Gözlerde, ciltte, saçta pigment melanin yokluğunun doğumsal bozukluğu mu?",
+        "jawaban": "Albinizm"
+    },
+    {
+        "index"
+            : 223,
+        "soal": "Kelimelerin kökenini inceleyen dilbilim dalı?",
+        "jawaban": "Etimoloji"
+    },
+    {
+        "index": 224,
+        "soal": "Borneo adasında bulunan ne tür balıklar karaya atlayabilir?",
+        "jawaban": "vurmak"
+    },
+    {
+        "index": 225,
+        "soal": "2009'da oluşturulan blok zinciri teknolojisine sahip elektronik para birimi?",
+        "jawaban": "Bitcoinler"
+    },
+    {
+        "index": 226,
+        "soal": "1918'in en büyük sigara girişimcisi, üç aşamalı kretek fabrikasının sahibi mi?",
+        "jawaban": "Nitisemito"
+    },
+    {
+        "index": 227,
+        "soal": "Bu dışavurumcu ressam Endonezya resminin maestrosu olarak biliniyor mu?",
+        "jawaban": "Affandi"
+    }
+]
